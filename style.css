@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(24, 23, 23);
+}
+.about {
+    color: rgb(236, 119, 41);
+}
+ 
+section {
+    display: flex;
+}
+.half-width {
+    width: 50%;
+    margin-right: 10px;
+}
+a {
+    background: linear-gradient(orange, tomato);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    
+}   
+.banner-img-container {
+  padding: 50px;
+}
